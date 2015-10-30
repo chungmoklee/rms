@@ -1,0 +1,243 @@
+[16] 21 Oct 23:48:10.403 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 16
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[16] 21 Oct 23:48:10.421 # Server started, Redis version 2.6.17
+[16] 21 Oct 23:48:10.421 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[16] 21 Oct 23:48:10.422 * The server is now ready to accept connections on port 6379
+[16 | signal handler] (1445471332) Received SIGTERM, scheduling shutdown...
+[16] 21 Oct 23:48:52.636 # User requested shutdown...
+[16] 21 Oct 23:48:52.636 * Saving the final RDB snapshot before exiting.
+[16] 21 Oct 23:48:52.637 * DB saved on disk
+[16] 21 Oct 23:48:52.638 # Redis is now ready to exit, bye bye...
+[14] 21 Oct 23:53:51.164 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 14
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[14] 21 Oct 23:53:51.203 # Server started, Redis version 2.6.17
+[14] 21 Oct 23:53:51.204 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[14] 21 Oct 23:53:51.204 * The server is now ready to accept connections on port 6379
+[14 | signal handler] (1445471638) Received SIGTERM, scheduling shutdown...
+[14] 21 Oct 23:53:58.538 # User requested shutdown...
+[14] 21 Oct 23:53:58.538 * Saving the final RDB snapshot before exiting.
+[14] 21 Oct 23:53:58.541 * DB saved on disk
+[14] 21 Oct 23:53:58.541 # Redis is now ready to exit, bye bye...
+[14] 21 Oct 23:56:08.901 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 14
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[14] 21 Oct 23:56:08.902 # Server started, Redis version 2.6.17
+[14] 21 Oct 23:56:08.902 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[14] 21 Oct 23:56:08.902 * The server is now ready to accept connections on port 6379
+[14 | signal handler] (1445471776) Received SIGTERM, scheduling shutdown...
+[14] 21 Oct 23:56:16.438 # User requested shutdown...
+[14] 21 Oct 23:56:16.442 * Saving the final RDB snapshot before exiting.
+[14] 21 Oct 23:56:16.446 * DB saved on disk
+[14] 21 Oct 23:56:16.446 # Redis is now ready to exit, bye bye...
+[17] 22 Oct 00:11:15.070 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 17
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[17] 22 Oct 00:11:15.071 # Server started, Redis version 2.6.17
+[17] 22 Oct 00:11:15.071 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[17] 22 Oct 00:11:15.072 * The server is now ready to accept connections on port 6379
+[17 | signal handler] (1445472683) Received SIGTERM, scheduling shutdown...
+[17] 22 Oct 00:11:23.418 # User requested shutdown...
+[17] 22 Oct 00:11:23.418 * Saving the final RDB snapshot before exiting.
+[17] 22 Oct 00:11:23.425 * DB saved on disk
+[17] 22 Oct 00:11:23.425 # Redis is now ready to exit, bye bye...
+[14] 22 Oct 00:29:20.232 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 14
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[14] 22 Oct 00:29:20.283 # Server started, Redis version 2.6.17
+[14] 22 Oct 00:29:20.284 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[14] 22 Oct 00:29:20.285 * The server is now ready to accept connections on port 6379
+[14 | signal handler] (1445473762) Received SIGTERM, scheduling shutdown...
+[14] 22 Oct 00:29:22.675 # User requested shutdown...
+[14] 22 Oct 00:29:22.675 * Saving the final RDB snapshot before exiting.
+[14] 22 Oct 00:29:22.680 * DB saved on disk
+[14] 22 Oct 00:29:22.680 # Redis is now ready to exit, bye bye...
+[10] 22 Oct 00:30:15.763 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 10
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[10] 22 Oct 00:30:15.788 # Server started, Redis version 2.6.17
+[10] 22 Oct 00:30:15.788 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[10] 22 Oct 00:30:15.789 * The server is now ready to accept connections on port 6379
+[10 | signal handler] (1445473825) Received SIGTERM, scheduling shutdown...
+[10] 22 Oct 00:30:25.249 # User requested shutdown...
+[10] 22 Oct 00:30:25.249 * Saving the final RDB snapshot before exiting.
+[10] 22 Oct 00:30:25.253 * DB saved on disk
+[10] 22 Oct 00:30:25.254 # Redis is now ready to exit, bye bye...
+[15] 22 Oct 00:31:59.189 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 15
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[15] 22 Oct 00:31:59.216 # Server started, Redis version 2.6.17
+[15] 22 Oct 00:31:59.216 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[15] 22 Oct 00:31:59.216 * The server is now ready to accept connections on port 6379
+[15 | signal handler] (1445473925) Received SIGTERM, scheduling shutdown...
+[15] 22 Oct 00:32:05.039 # User requested shutdown...
+[15] 22 Oct 00:32:05.039 * Saving the final RDB snapshot before exiting.
+[15] 22 Oct 00:32:05.042 * DB saved on disk
+[15] 22 Oct 00:32:05.042 # Redis is now ready to exit, bye bye...
+[17] 22 Oct 00:50:06.049 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 17
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[17] 22 Oct 00:50:06.088 # Server started, Redis version 2.6.17
+[17] 22 Oct 00:50:06.088 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[17] 22 Oct 00:50:06.089 * The server is now ready to accept connections on port 6379
+[17 | signal handler] (1445476721) Received SIGTERM, scheduling shutdown...
+[17] 22 Oct 01:18:41.552 # User requested shutdown...
+[17] 22 Oct 01:18:41.552 * Saving the final RDB snapshot before exiting.
+[17] 22 Oct 01:18:41.554 * DB saved on disk
+[17] 22 Oct 01:18:41.554 # Redis is now ready to exit, bye bye...
+[13] 22 Oct 01:18:50.826 # Warning: no config file specified, using the default config. In order to specify a config file use /usr/local/bin/redis-server /path/to/redis.conf
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 13
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[13] 22 Oct 01:18:50.858 # Server started, Redis version 2.6.17
+[13] 22 Oct 01:18:50.858 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[13] 22 Oct 01:18:50.859 * The server is now ready to accept connections on port 6379
+[13 | signal handler] (1445492631) Received SIGTERM, scheduling shutdown...
+[13] 22 Oct 05:43:51.558 # User requested shutdown...
+[13] 22 Oct 05:43:51.558 * Saving the final RDB snapshot before exiting.
+[13] 22 Oct 05:43:51.568 * DB saved on disk
+[13] 22 Oct 05:43:51.571 # Redis is now ready to exit, bye bye...

@@ -1,0 +1,199 @@
+Apache CouchDB has started, time to relax.
+Apache CouchDB has started, time to relax.
+Apache CouchDB has started, time to relax.
+Apache CouchDB has started, time to relax.
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+
+Crash dump was written to: erl_crash.dump
+init terminating in do_boot ()
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Error opening log file /usr/local/var/log/couchdb/couch.log: no such file or directory{"init terminating in do_boot",{{badmatch,{error,{bad_return,{{couch_app,start,[normal,["/usr/local/etc/couchdb/default.ini","/usr/local/etc/couchdb/local.ini"]]},{'EXIT',{{badmatch,{error,{shutdown,{failed_to_start_child,couch_primary_services,{shutdown,{failed_to_start_child,couch_log,{error,"no such file or directory","/usr/local/var/log/couchdb/couch.log"}}}}}}},[{couch_server_sup,start_server,1,[{file,"couch_server_sup.erl"},{line,98}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,272}]}]}}}}}},[{couch,start,0,[{file,"couch.erl"},{line,18}]},{init,start_it,1,[]},{init,start_em,1,[]}]}}
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Apache CouchDB has started. Time to relax.
+[info] [<0.32.0>] Apache CouchDB has started on http://0.0.0.0:5984/
+[info] [<0.113.0>] 172.16.87.1 - - GET / 200
+[info] [<0.113.0>] 172.16.87.1 - - GET /favicon.ico 200
+[info] [<0.113.0>] 172.16.87.1 - - GET /_utils 301
+[info] [<0.113.0>] 172.16.87.1 - - GET /_utils/ 200
+[info] [<0.113.0>] 172.16.87.1 - - GET /_utils/style/layout.css?0.11.0 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_utils/script/json2.js 200
+[info] [<0.114.0>] 172.16.87.1 - - GET /_utils/script/sha1.js 200
+[info] [<0.115.0>] 172.16.87.1 - - GET /_utils/script/jquery.js 200
+[info] [<0.116.0>] 172.16.87.1 - - GET /_utils/script/jquery.couch.js 200
+[info] [<0.117.0>] 172.16.87.1 - - GET /_utils/script/jquery.dialog.js 200
+[info] [<0.113.0>] 172.16.87.1 - - GET /_utils/script/futon.js 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_utils/script/futon.browse.js 200
+[info] [<0.114.0>] 172.16.87.1 - - GET /_utils/script/futon.format.js 200
+[info] [<0.115.0>] 172.16.87.1 - - GET /_utils/image/bg.png 200
+[info] [<0.114.0>] 172.16.87.1 - - GET /_utils/image/add.png 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_utils/image/thead.gif 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_utils/_sidebar.html 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_all_dbs 200
+[info] [<0.114.0>] 172.16.87.1 - - GET /_utils/image/spinner_33.gif 200
+[info] [<0.114.0>] 172.16.87.1 - - GET /_utils/image/sidebar-toggle.png 200
+[info] [<0.196.0>] 172.16.87.1 - - GET /_session 200
+[info] [<0.115.0>] 172.16.87.1 - - GET / 200
+[info] [<0.113.0>] 172.16.87.1 - - GET /_utils/image/logo.png 200
+[info] [<0.117.0>] 172.16.87.1 - - GET /_replicator/ 200
+[info] [<0.116.0>] 172.16.87.1 - - GET /_users/ 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/database.html?_users 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/style/layout.css 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/script/json2.js 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/script/jquery.resizer.js 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/script/jquery.suggest.js 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/script/sha1.js 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/script/jquery.js 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/script/jquery.couch.js 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/script/jquery.dialog.js 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/script/futon.js 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/script/futon.browse.js 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/script/futon.format.js 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/image/bg.png 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/image/path.gif 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/image/add.png 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/image/key.png 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/image/compact.png 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/image/delete.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/thead-key.gif 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/image/thead.gif 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/image/order-asc.gif 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/_sidebar.html 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/image/rarrow.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/spinner_33.gif 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_config/query_servers/ 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_users/_all_docs?limit=11 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/image/logo.png 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/image/sidebar-toggle.png 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_session 200
+[info] [<0.119.0>] 172.16.87.1 - - GET / 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_config/native_query_servers/ 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/document.html?_users/_design/_auth 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/style/layout.css?0.11.0 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/script/json2.js 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/script/sha1.js 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/script/base64.js 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/script/jquery.js 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/script/jquery.couch.js 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/script/jquery.dialog.js 200
+[info] [<0.118.0>] 172.16.87.1 - - GET /_utils/script/futon.js 200
+[info] [<0.121.0>] 172.16.87.1 - - GET /_utils/script/jquery.resizer.js 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/script/jquery.editinline.js 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/script/jquery.form.js 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/script/futon.browse.js 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/script/futon.format.js 200
+[info] [<0.119.0>] 172.16.87.1 - - GET /_utils/image/path.gif 200
+[info] [<0.120.0>] 172.16.87.1 - - GET /_utils/image/save.png 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/image/load.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/delete.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/_sidebar.html 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_users/_design/_auth?revs_info=true 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/rarrow.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/logo.png 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_session 200
+[info] [<0.112.0>] 172.16.87.1 - - GET / 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/image/delete-mini.png 200
+[info] [<0.112.0>] 172.16.87.1 - - GET /_utils/image/progress.gif 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/dialog/_database_security.html 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_utils/image/spinner_6b.gif 200
+[info] [<0.111.0>] 172.16.87.1 - - GET /_users/_security 200
+Apache CouchDB 1.6.0 (LogLevel=info) is starting.
+Apache CouchDB has started. Time to relax.
+[info] [<0.32.0>] Apache CouchDB has started on http://0.0.0.0:5984/

@@ -1,0 +1,12 @@
+rms1:
+	image: rms1
+	container_name: rms_server
+	ports:
+	 - "5984:5984"
+	 - "8083:8083"
+	 - "8086:8086"
+	volumns:
+	 - /Users/cmlee/Documents/DockerWorkspace/web_server:/web_server
+	 - /Users/cmlee/Documents/DockerWorkspace/logs:/usr/local/var/log
+
+	entrypoint: bash

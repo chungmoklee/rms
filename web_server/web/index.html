@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/static/bootstrap-3.3.5-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="/static/custom.css">
+    <script src="/static/jquery-2.1.4.js"></script>
+    <script src="/static/socket.io.js"></script>
+    <script src="/static/angular-1.4.6/angular.js"></script>
+    <script src="/static/jquery.sparkline.min.js"></script>
+    <script src="/js/common.js"></script>
+    <script>
+
+        var SPARKLINE_MAX_NUM = 30;
+
+        var app = angular.module('app', ['sparkline']);
+
+
+
+        app.controller('rms', function ($scope) {
+            var socket = io.connect('/rms');
+
+            socket.on('RMSdata', function (data) {
+                $scope.$apply(function () {
+                    var equip_id = data['id'];
+                    var readvalue = data['readvalue'];
+
+                    var equip = rmsdata[equip_id];
+                    var recent_reads = equip.recent_reads;
+
+                    recent_reads.push(readvalue);
+
+                    if (recent_reads.length > SPARKLINE_MAX_NUM) {
+                        recent_reads.splice(0, 1);
+                    }
+
+                    console.log(recent_reads);
+
+
+                });
+            });
+
+            var equip_list = ['RE002', 'RE003', 'RE004'];
+
+            var rmsdata = {};
+
+            angular.forEach(equip_list, function(e) {
+                rmsdata[e] = {
+                    id : e,
+                    recent_reads : []
+                }
+            });
+
+
+
+
+
+            $scope.rmsdata = rmsdata;
+
+
+
+        });
+
+
+        app.controller('logs', function ($scope, $document) {
+            var levels = ['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL'];
+            var socket = io.connect('/logs');
+            var filter_regex = null;
+
+            $scope.limit = 10;
+            $scope.requests = [];
+            $scope.incoming = [];
+            $scope.sticky = true;
+            $scope.search = '';
+
+            var process_data = function (data) {
+
+                data.level = levels[1];
+
+                $scope.requests.push(data);
+                if ($scope.requests.length > $scope.limit) {
+                    $scope.requests = $scope.requests.slice(-$scope.limit);
+
+                } else {
+                    console.log(data.line);
+                }
+            };
+
+            socket.on('log', function (data) {
+                $scope.$apply(function () {
+                    process_data(data);
+                });
+            });
+
+            $scope.label_for = function (level) {
+                return {
+                    'DEBUG': 'primary',
+                    'INFO': 'info',
+                    'WARNING': 'warning',
+                    'ERROR': 'danger',
+                    'CRITICAL': 'danger'
+                }[level];
+            };
+
+            $scope.abbreviation_for = function (level) {
+                return {
+                    'DEBUG': 'λ',
+                    'INFO': 'i',
+                    'WARNING': '!',
+                    'ERROR': '!!',
+                    'CRITICAL': '!!!'
+                }[level];
+            };
+
+            $scope.search_filter = function (item, index) {
+                if (!filter_regex) return true;
+                if (item.line.search(filter_regex) !== -1) return true;
+                if (!item.logs) return false;
+                for (var i = 0; i < item.logs.length; i++) {
+                    if (item.logs[i].line.search(filter_regex)) return true;
+                }
+                return false;
+            };
+
+            $scope.$watch('search', function () {
+                if (!$scope.search) {
+                    filter_regex = null;
+                    $scope.error = null;
+                } else {
+                    try {
+                        $scope.error = null;
+                        filter_regex = new RegExp($scope.search, "gi");
+                    } catch (e) {
+                        $scope.error = e.message;
+                        filter_regex = null;
+                    }
+                }
+            });
+
+            $scope.$watch('requests.length', function () {
+                if (!$scope.sticky) return;
+                setTimeout(function () {
+                    $document.scrollTop($document.height());
+                });
+            });
+        });
+
+    </script>
+</head>
+<body ng-app="app" style="padding-top: 70px;">
+
+
+<div class="container" ng-controller="rms">
+        <div class="label-info row" ng-repeat="equip in rmsdata" draggable="true">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-12">
+            <div class="label label-default">{{equip.id}}</div>
+                    <span jq-sparkline ng-model="equip.recent_reads"></span>
+            <div class="label label-info">{{equip.recent_reads.slice(-1)[0].toFixed(3)}}</div>
+                </div>
+                </div>
+                </div>
+        </div>
+</div>
+
+
+
+<div ng-controller="logs">
+<!--
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" >
+        <div class="container">
+            <form class="navbar-form navbar-left">
+                <div class="form-group">
+                    <input type="text" class="form-control" length="3" style="width: 200px;" ng-model="search"
+                           placeholder="Filter by regex">
+                </div>
+            </form>
+            <form class="navbar-form navbar-right">
+                <div class="form-group">
+                    Show
+                    <input type="number" class="form-control" length="3" style="width: 65px;" ng-model="limit">
+                    Logs&nbsp;
+                </div>
+                <button class="btn btn-primary pull-right" ng-click="sticky = !sticky">
+                    <i class="glyphicon glyphicon-play" ng-show="!sticky"></i>
+                    <i class="glyphicon glyphicon-pause" ng-show="sticky"></i>
+                </button>
+            </form>
+        </div>
+    </nav>
+-->
+
+
+
+
+
+    <div class="container">
+        <div class="alert alert-danger" role="alert" ng-show="error">{{error}}</div>
+        <div class="row" ng-repeat="request in requests | filter:search_filter">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <span class="label label-{{label_for(request.level);}}">{{abbreviation_for(request.level)}}</span>
+                        {{request.time}}
+                    </div>
+                    <div class="col-sm-9">
+                        {{request.id + " : " + request.readvalue}}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+</body>
+</html>

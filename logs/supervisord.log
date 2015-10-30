@@ -1,0 +1,397 @@
+2015-10-19 13:37:01,518 CRIT Supervisor running as root (no user in config file)
+2015-10-19 13:37:01,554 INFO supervisord started with pid 1
+2015-10-19 13:37:02,573 INFO spawned: 'influxdb' with pid 10
+2015-10-19 13:37:02,589 INFO spawned: 'coucgdb' with pid 11
+2015-10-19 13:37:02,635 INFO spawned: 'webserver' with pid 12
+2015-10-19 13:37:04,092 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:37:04,093 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:37:04,095 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:37:07,588 INFO reaped unknown pid 67
+2015-10-19 13:37:09,227 INFO reaped unknown pid 70
+2015-10-19 13:37:09,231 INFO reaped unknown pid 31
+2015-10-19 13:37:10,237 INFO reaped unknown pid 62
+2015-10-19 13:38:17,392 WARN received SIGINT indicating exit request
+2015-10-19 13:38:17,400 INFO waiting for webserver, coucgdb, influxdb to die
+2015-10-19 13:38:17,409 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-19 13:38:18,046 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-19 13:38:19,059 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-19 13:38:28,905 CRIT Supervisor running as root (no user in config file)
+2015-10-19 13:38:28,914 INFO supervisord started with pid 1
+2015-10-19 13:38:29,921 INFO spawned: 'influxdb' with pid 11
+2015-10-19 13:38:29,937 INFO spawned: 'coucgdb' with pid 12
+2015-10-19 13:38:29,943 INFO spawned: 'webserver' with pid 13
+2015-10-19 13:38:30,701 INFO reaped unknown pid 58
+2015-10-19 13:38:31,086 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:38:31,087 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:38:31,088 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 13:38:31,089 INFO reaped unknown pid 34
+2015-10-19 13:38:31,177 INFO reaped unknown pid 59
+2015-10-19 13:38:32,084 INFO reaped unknown pid 53
+2015-10-19 13:39:26,009 WARN received SIGINT indicating exit request
+2015-10-19 13:39:26,011 INFO waiting for webserver, coucgdb, influxdb to die
+2015-10-19 13:39:26,015 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-19 13:39:26,623 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-19 13:39:27,084 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-19 23:08:55,417 CRIT Supervisor running as root (no user in config file)
+2015-10-19 23:08:55,444 INFO supervisord started with pid 1
+2015-10-19 23:08:56,533 INFO spawned: 'influxdb' with pid 9
+2015-10-19 23:08:56,626 INFO spawned: 'coucgdb' with pid 10
+2015-10-19 23:08:56,698 INFO spawned: 'webserver' with pid 11
+2015-10-19 23:08:57,974 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 23:08:57,975 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 23:08:57,976 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-19 23:09:00,564 INFO reaped unknown pid 64
+2015-10-19 23:09:01,802 INFO reaped unknown pid 65
+2015-10-19 23:09:01,804 INFO reaped unknown pid 30
+2015-10-19 23:09:02,804 INFO reaped unknown pid 60
+2015-10-20 21:43:02,393 WARN received SIGINT indicating exit request
+2015-10-20 21:43:02,402 INFO waiting for webserver, coucgdb, influxdb to die
+2015-10-20 21:43:02,444 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-20 21:43:02,583 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-20 21:43:02,590 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-20 21:43:29,721 CRIT Supervisor running as root (no user in config file)
+2015-10-20 21:43:29,726 INFO supervisord started with pid 1
+2015-10-20 21:43:30,740 INFO spawned: 'influxdb' with pid 9
+2015-10-20 21:43:30,767 INFO spawned: 'coucgdb' with pid 10
+2015-10-20 21:43:30,799 INFO spawned: 'webserver' with pid 11
+2015-10-20 21:43:32,031 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-20 21:43:32,032 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-20 21:43:32,034 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-20 21:43:37,389 INFO reaped unknown pid 70
+2015-10-20 21:43:38,248 INFO reaped unknown pid 33
+2015-10-20 21:43:38,266 INFO reaped unknown pid 71
+2015-10-20 21:43:39,215 INFO reaped unknown pid 66
+2015-10-20 21:44:03,156 WARN received SIGINT indicating exit request
+2015-10-20 21:44:03,160 INFO waiting for webserver, coucgdb, influxdb to die
+2015-10-20 21:44:03,161 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-20 21:44:03,463 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-20 21:44:04,475 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-21 23:48:09,307 CRIT Supervisor running as root (no user in config file)
+2015-10-21 23:48:09,313 INFO supervisord started with pid 1
+2015-10-21 23:48:10,320 INFO spawned: 'influxdb' with pid 11
+2015-10-21 23:48:10,323 INFO spawned: 'coucgdb' with pid 12
+2015-10-21 23:48:10,336 INFO spawned: 'webserver' with pid 14
+2015-10-21 23:48:10,348 INFO spawned: 'redis' with pid 16
+2015-10-21 23:48:10,974 INFO reaped unknown pid 37
+2015-10-21 23:48:11,338 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:11,339 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:11,340 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:11,342 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:12,137 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:12,138 INFO reaped unknown pid 40
+2015-10-21 23:48:12,341 INFO spawned: 'coucgdb' with pid 43
+2015-10-21 23:48:12,584 INFO reaped unknown pid 56
+2015-10-21 23:48:13,462 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:13,467 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:13,469 INFO reaped unknown pid 59
+2015-10-21 23:48:14,477 INFO spawned: 'coucgdb' with pid 61
+2015-10-21 23:48:14,702 INFO reaped unknown pid 74
+2015-10-21 23:48:15,603 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:15,608 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:15,608 INFO reaped unknown pid 75
+2015-10-21 23:48:16,617 INFO spawned: 'coucgdb' with pid 77
+2015-10-21 23:48:16,856 INFO reaped unknown pid 90
+2015-10-21 23:48:17,778 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:17,783 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:17,784 INFO reaped unknown pid 91
+2015-10-21 23:48:18,799 INFO spawned: 'coucgdb' with pid 93
+2015-10-21 23:48:19,027 INFO reaped unknown pid 106
+2015-10-21 23:48:19,942 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:19,949 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:19,950 INFO reaped unknown pid 107
+2015-10-21 23:48:20,964 INFO spawned: 'coucgdb' with pid 109
+2015-10-21 23:48:21,210 INFO reaped unknown pid 122
+2015-10-21 23:48:22,144 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:22,150 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:22,150 INFO reaped unknown pid 123
+2015-10-21 23:48:22,654 INFO spawned: 'coucgdb' with pid 125
+2015-10-21 23:48:22,881 INFO reaped unknown pid 138
+2015-10-21 23:48:23,771 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:23,777 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:23,779 INFO reaped unknown pid 139
+2015-10-21 23:48:24,795 INFO spawned: 'coucgdb' with pid 141
+2015-10-21 23:48:25,026 INFO reaped unknown pid 154
+2015-10-21 23:48:25,986 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:25,992 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:25,993 INFO reaped unknown pid 155
+2015-10-21 23:48:27,007 INFO spawned: 'coucgdb' with pid 157
+2015-10-21 23:48:27,234 INFO reaped unknown pid 170
+2015-10-21 23:48:28,112 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:28,117 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:28,119 INFO reaped unknown pid 171
+2015-10-21 23:48:29,126 INFO spawned: 'coucgdb' with pid 173
+2015-10-21 23:48:29,360 INFO reaped unknown pid 186
+2015-10-21 23:48:30,266 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:30,272 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:30,273 INFO reaped unknown pid 187
+2015-10-21 23:48:31,287 INFO spawned: 'coucgdb' with pid 189
+2015-10-21 23:48:31,514 INFO reaped unknown pid 202
+2015-10-21 23:48:32,391 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:32,397 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:32,398 INFO reaped unknown pid 203
+2015-10-21 23:48:33,413 INFO spawned: 'coucgdb' with pid 205
+2015-10-21 23:48:33,643 INFO reaped unknown pid 218
+2015-10-21 23:48:34,547 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:34,556 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:34,556 INFO reaped unknown pid 219
+2015-10-21 23:48:35,571 INFO spawned: 'coucgdb' with pid 221
+2015-10-21 23:48:35,798 INFO reaped unknown pid 234
+2015-10-21 23:48:36,731 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:36,738 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:36,740 INFO reaped unknown pid 235
+2015-10-21 23:48:37,669 INFO spawned: 'coucgdb' with pid 237
+2015-10-21 23:48:37,907 INFO reaped unknown pid 250
+2015-10-21 23:48:38,845 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:38,851 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:38,854 INFO reaped unknown pid 251
+2015-10-21 23:48:39,870 INFO spawned: 'coucgdb' with pid 253
+2015-10-21 23:48:40,093 INFO reaped unknown pid 266
+2015-10-21 23:48:40,995 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:41,001 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:41,002 INFO reaped unknown pid 267
+2015-10-21 23:48:42,018 INFO spawned: 'coucgdb' with pid 269
+2015-10-21 23:48:42,244 INFO reaped unknown pid 282
+2015-10-21 23:48:43,143 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:43,148 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:43,149 INFO reaped unknown pid 283
+2015-10-21 23:48:44,164 INFO spawned: 'coucgdb' with pid 285
+2015-10-21 23:48:44,392 INFO reaped unknown pid 298
+2015-10-21 23:48:45,297 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:45,302 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:45,303 INFO reaped unknown pid 299
+2015-10-21 23:48:46,317 INFO spawned: 'coucgdb' with pid 301
+2015-10-21 23:48:46,554 INFO reaped unknown pid 314
+2015-10-21 23:48:47,498 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:47,503 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:47,504 INFO reaped unknown pid 315
+2015-10-21 23:48:47,674 INFO spawned: 'coucgdb' with pid 317
+2015-10-21 23:48:47,902 INFO reaped unknown pid 330
+2015-10-21 23:48:48,783 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:48,789 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:48,790 INFO reaped unknown pid 331
+2015-10-21 23:48:49,805 INFO spawned: 'coucgdb' with pid 333
+2015-10-21 23:48:50,035 INFO reaped unknown pid 346
+2015-10-21 23:48:50,923 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:48:50,930 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:48:50,932 INFO reaped unknown pid 347
+2015-10-21 23:48:51,946 INFO spawned: 'coucgdb' with pid 349
+2015-10-21 23:48:52,168 INFO reaped unknown pid 362
+2015-10-21 23:48:52,549 WARN received SIGINT indicating exit request
+2015-10-21 23:48:52,550 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-21 23:48:52,639 INFO stopped: redis (exit status 0)
+2015-10-21 23:48:52,642 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-21 23:48:52,650 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-21 23:48:52,669 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-21 23:48:52,669 INFO reaped unknown pid 363
+2015-10-21 23:53:50,085 CRIT Supervisor running as root (no user in config file)
+2015-10-21 23:53:50,097 INFO supervisord started with pid 1
+2015-10-21 23:53:51,104 INFO spawned: 'influxdb' with pid 10
+2015-10-21 23:53:51,115 INFO spawned: 'coucgdb' with pid 11
+2015-10-21 23:53:51,122 INFO spawned: 'webserver' with pid 13
+2015-10-21 23:53:51,136 INFO spawned: 'redis' with pid 14
+2015-10-21 23:53:51,654 INFO reaped unknown pid 36
+2015-10-21 23:53:52,404 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:52,405 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:52,405 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:52,406 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:52,585 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:53:52,586 INFO reaped unknown pid 39
+2015-10-21 23:53:52,658 INFO spawned: 'coucgdb' with pid 43
+2015-10-21 23:53:52,902 INFO reaped unknown pid 57
+2015-10-21 23:53:53,732 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:53,738 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:53:53,739 INFO reaped unknown pid 58
+2015-10-21 23:53:54,752 INFO spawned: 'coucgdb' with pid 60
+2015-10-21 23:53:54,972 INFO reaped unknown pid 73
+2015-10-21 23:53:55,845 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:55,852 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:53:55,853 INFO reaped unknown pid 74
+2015-10-21 23:53:56,868 INFO spawned: 'coucgdb' with pid 76
+2015-10-21 23:53:57,113 INFO reaped unknown pid 89
+2015-10-21 23:53:58,016 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:53:58,022 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:53:58,023 INFO reaped unknown pid 90
+2015-10-21 23:53:58,515 INFO spawned: 'coucgdb' with pid 92
+2015-10-21 23:53:58,520 WARN received SIGINT indicating exit request
+2015-10-21 23:53:58,521 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-21 23:53:58,542 INFO stopped: redis (exit status 0)
+2015-10-21 23:53:58,556 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-21 23:53:58,569 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-21 23:53:59,573 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-21 23:56:07,811 CRIT Supervisor running as root (no user in config file)
+2015-10-21 23:56:07,822 INFO supervisord started with pid 1
+2015-10-21 23:56:08,831 INFO spawned: 'influxdb' with pid 10
+2015-10-21 23:56:08,835 INFO spawned: 'coucgdb' with pid 11
+2015-10-21 23:56:08,845 INFO spawned: 'webserver' with pid 12
+2015-10-21 23:56:08,855 INFO spawned: 'redis' with pid 14
+2015-10-21 23:56:09,371 INFO reaped unknown pid 36
+2015-10-21 23:56:10,268 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:10,269 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:10,270 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:10,271 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:10,276 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:56:10,277 INFO reaped unknown pid 39
+2015-10-21 23:56:10,941 INFO spawned: 'coucgdb' with pid 42
+2015-10-21 23:56:11,172 INFO reaped unknown pid 57
+2015-10-21 23:56:12,020 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:12,027 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:56:12,027 INFO reaped unknown pid 58
+2015-10-21 23:56:13,041 INFO spawned: 'coucgdb' with pid 60
+2015-10-21 23:56:13,259 INFO reaped unknown pid 73
+2015-10-21 23:56:14,106 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:14,111 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:56:14,112 INFO reaped unknown pid 74
+2015-10-21 23:56:15,126 INFO spawned: 'coucgdb' with pid 76
+2015-10-21 23:56:15,346 INFO reaped unknown pid 89
+2015-10-21 23:56:16,218 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-21 23:56:16,223 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-21 23:56:16,224 INFO reaped unknown pid 90
+2015-10-21 23:56:16,400 INFO spawned: 'coucgdb' with pid 92
+2015-10-21 23:56:16,405 WARN received SIGINT indicating exit request
+2015-10-21 23:56:16,406 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-21 23:56:16,449 INFO stopped: redis (exit status 0)
+2015-10-21 23:56:16,467 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-21 23:56:16,489 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-21 23:56:17,493 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 00:11:13,979 CRIT Supervisor running as root (no user in config file)
+2015-10-22 00:11:13,991 INFO supervisord started with pid 1
+2015-10-22 00:11:14,997 INFO spawned: 'influxdb' with pid 11
+2015-10-22 00:11:15,005 INFO spawned: 'coucgdb' with pid 13
+2015-10-22 00:11:15,009 INFO spawned: 'webserver' with pid 14
+2015-10-22 00:11:15,034 INFO spawned: 'redis' with pid 17
+2015-10-22 00:11:15,559 INFO reaped unknown pid 39
+2015-10-22 00:11:16,416 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:16,417 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:16,417 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:16,418 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:16,426 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:11:16,427 INFO reaped unknown pid 40
+2015-10-22 00:11:16,519 INFO spawned: 'coucgdb' with pid 43
+2015-10-22 00:11:16,818 INFO reaped unknown pid 58
+2015-10-22 00:11:17,666 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:17,671 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:11:17,671 INFO reaped unknown pid 59
+2015-10-22 00:11:18,685 INFO spawned: 'coucgdb' with pid 61
+2015-10-22 00:11:18,913 INFO reaped unknown pid 74
+2015-10-22 00:11:19,754 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:19,761 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:11:19,763 INFO reaped unknown pid 75
+2015-10-22 00:11:20,780 INFO spawned: 'coucgdb' with pid 77
+2015-10-22 00:11:20,998 INFO reaped unknown pid 90
+2015-10-22 00:11:21,835 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:11:21,842 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:11:21,843 INFO reaped unknown pid 91
+2015-10-22 00:11:22,858 INFO spawned: 'coucgdb' with pid 93
+2015-10-22 00:11:23,071 INFO reaped unknown pid 106
+2015-10-22 00:11:23,414 WARN received SIGINT indicating exit request
+2015-10-22 00:11:23,415 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-22 00:11:23,426 INFO stopped: redis (exit status 0)
+2015-10-22 00:11:23,436 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 00:11:23,448 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-22 00:11:23,451 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 00:29:19,187 CRIT Supervisor running as root (no user in config file)
+2015-10-22 00:29:19,193 INFO supervisord started with pid 1
+2015-10-22 00:29:20,199 INFO spawned: 'influxdb' with pid 9
+2015-10-22 00:29:20,205 INFO spawned: 'coucgdb' with pid 10
+2015-10-22 00:29:20,219 INFO spawned: 'webserver' with pid 13
+2015-10-22 00:29:20,226 INFO spawned: 'redis' with pid 14
+2015-10-22 00:29:20,786 INFO reaped unknown pid 35
+2015-10-22 00:29:21,678 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:29:21,679 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:29:21,679 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:29:21,680 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:29:21,685 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:29:21,686 INFO reaped unknown pid 38
+2015-10-22 00:29:22,347 INFO spawned: 'coucgdb' with pid 41
+2015-10-22 00:29:22,579 INFO reaped unknown pid 54
+2015-10-22 00:29:22,646 WARN received SIGINT indicating exit request
+2015-10-22 00:29:22,647 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-22 00:29:22,689 INFO stopped: redis (exit status 0)
+2015-10-22 00:29:22,701 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 00:29:22,714 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-22 00:29:23,716 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 00:30:14,715 CRIT Supervisor running as root (no user in config file)
+2015-10-22 00:30:14,721 INFO supervisord started with pid 1
+2015-10-22 00:30:15,728 INFO spawned: 'influxdb' with pid 8
+2015-10-22 00:30:15,731 INFO spawnerr: can't find command 'sudo'
+2015-10-22 00:30:15,740 INFO spawned: 'webserver' with pid 9
+2015-10-22 00:30:15,755 INFO spawned: 'redis' with pid 10
+2015-10-22 00:30:16,929 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:30:16,931 INFO spawnerr: can't find command 'sudo'
+2015-10-22 00:30:16,933 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:30:16,934 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:30:19,751 INFO spawnerr: can't find command 'sudo'
+2015-10-22 00:30:22,759 INFO spawnerr: can't find command 'sudo'
+2015-10-22 00:30:22,760 INFO gave up: coucgdb entered FATAL state, too many start retries too quickly
+2015-10-22 00:30:25,210 WARN received SIGINT indicating exit request
+2015-10-22 00:30:25,211 INFO waiting for redis, webserver, influxdb to die
+2015-10-22 00:30:25,256 INFO stopped: redis (exit status 0)
+2015-10-22 00:30:25,267 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 00:30:27,272 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 00:31:58,095 CRIT Supervisor running as root (no user in config file)
+2015-10-22 00:31:58,099 INFO supervisord started with pid 1
+2015-10-22 00:31:59,105 INFO spawned: 'influxdb' with pid 10
+2015-10-22 00:31:59,116 INFO spawned: 'coucgdb' with pid 11
+2015-10-22 00:31:59,126 INFO spawned: 'webserver' with pid 13
+2015-10-22 00:31:59,136 INFO spawned: 'redis' with pid 15
+2015-10-22 00:31:59,712 INFO reaped unknown pid 36
+2015-10-22 00:32:00,596 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:00,596 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:00,598 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:00,599 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:00,622 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:32:00,623 INFO reaped unknown pid 39
+2015-10-22 00:32:00,642 INFO spawned: 'coucgdb' with pid 42
+2015-10-22 00:32:00,940 INFO reaped unknown pid 57
+2015-10-22 00:32:01,865 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:01,870 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:32:01,871 INFO reaped unknown pid 58
+2015-10-22 00:32:02,880 INFO spawned: 'coucgdb' with pid 60
+2015-10-22 00:32:03,121 INFO reaped unknown pid 73
+2015-10-22 00:32:04,000 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:32:04,005 INFO exited: coucgdb (exit status 1; not expected)
+2015-10-22 00:32:04,006 INFO reaped unknown pid 74
+2015-10-22 00:32:05,013 INFO spawned: 'coucgdb' with pid 76
+2015-10-22 00:32:05,019 WARN received SIGINT indicating exit request
+2015-10-22 00:32:05,025 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-22 00:32:05,044 INFO stopped: redis (exit status 0)
+2015-10-22 00:32:05,052 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 00:32:05,058 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-22 00:32:05,066 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 00:32:05,070 INFO reaped unknown pid 81
+2015-10-22 00:50:04,956 CRIT Supervisor running as root (no user in config file)
+2015-10-22 00:50:04,964 INFO supervisord started with pid 1
+2015-10-22 00:50:05,970 INFO spawned: 'influxdb' with pid 10
+2015-10-22 00:50:05,990 INFO spawned: 'coucgdb' with pid 13
+2015-10-22 00:50:05,997 INFO spawned: 'webserver' with pid 14
+2015-10-22 00:50:06,025 INFO spawned: 'redis' with pid 17
+2015-10-22 00:50:06,613 INFO reaped unknown pid 38
+2015-10-22 00:50:07,070 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:50:07,072 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:50:07,073 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 00:50:07,073 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 01:18:41,532 WARN received SIGINT indicating exit request
+2015-10-22 01:18:41,543 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-22 01:18:41,555 INFO stopped: redis (exit status 0)
+2015-10-22 01:18:41,563 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 01:18:41,577 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-22 01:18:41,581 INFO reaped unknown pid 39
+2015-10-22 01:18:42,585 INFO stopped: influxdb (terminated by SIGTERM)
+2015-10-22 01:18:49,745 CRIT Supervisor running as root (no user in config file)
+2015-10-22 01:18:49,752 INFO supervisord started with pid 1
+2015-10-22 01:18:50,759 INFO spawned: 'influxdb' with pid 9
+2015-10-22 01:18:50,763 INFO spawned: 'coucgdb' with pid 10
+2015-10-22 01:18:50,777 INFO spawned: 'webserver' with pid 12
+2015-10-22 01:18:50,781 INFO spawned: 'redis' with pid 13
+2015-10-22 01:18:51,361 INFO reaped unknown pid 35
+2015-10-22 01:18:51,863 INFO success: influxdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 01:18:51,865 INFO success: coucgdb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 01:18:51,865 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 01:18:51,866 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-22 05:43:51,544 WARN received SIGINT indicating exit request
+2015-10-22 05:43:51,562 INFO waiting for redis, webserver, coucgdb, influxdb to die
+2015-10-22 05:43:51,585 INFO stopped: redis (exit status 0)
+2015-10-22 05:43:51,699 INFO stopped: webserver (terminated by SIGTERM)
+2015-10-22 05:43:51,768 INFO stopped: coucgdb (terminated by SIGTERM)
+2015-10-22 05:43:51,770 INFO reaped unknown pid 38
+2015-10-22 05:43:51,777 INFO stopped: influxdb (terminated by SIGTERM)
